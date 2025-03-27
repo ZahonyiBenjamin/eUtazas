@@ -1,0 +1,7 @@
+C:\Users\diak\Desktop\1-14-1\KB\23 eUtazas\eUtazas\eUtazas\bin\Debug\eUtazas.exe.config
+C:\Users\diak\Desktop\1-14-1\KB\23 eUtazas\eUtazas\eUtazas\bin\Debug\eUtazas.exe
+C:\Users\diak\Desktop\1-14-1\KB\23 eUtazas\eUtazas\eUtazas\bin\Debug\eUtazas.pdb
+C:\Users\diak\Desktop\1-14-1\KB\23 eUtazas\eUtazas\eUtazas\obj\Debug\eUtazas.csproj.AssemblyReference.cache
+C:\Users\diak\Desktop\1-14-1\KB\23 eUtazas\eUtazas\eUtazas\obj\Debug\eUtazas.csproj.CoreCompileInputs.cache
+C:\Users\diak\Desktop\1-14-1\KB\23 eUtazas\eUtazas\eUtazas\obj\Debug\eUtazas.exe
+C:\Users\diak\Desktop\1-14-1\KB\23 eUtazas\eUtazas\eUtazas\obj\Debug\eUtazas.pdb
